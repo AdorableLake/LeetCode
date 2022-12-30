@@ -13,3 +13,6 @@ int numberOfSteps(int num){
     } // while
     return i; // XD 原来LeetCode强制添加return
 } // 这里怎么就错了呢
+
+// 错误原因分析来源于此 
+// https://blog.csdn.net/qq_35429629/article/details/97009701
