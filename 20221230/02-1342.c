@@ -16,3 +16,5 @@ int numberOfSteps(int num){
 
 // 错误原因分析来源于此 
 // https://blog.csdn.net/qq_35429629/article/details/97009701
+
+// 另：本题其实为位运算的基础
